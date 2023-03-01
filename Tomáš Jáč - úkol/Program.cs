@@ -24,5 +24,4 @@ if (cisla[0] == "")
 else
 {
 Console.WriteLine($"\nPočet čísel je: {cisla.Length}");
-Console.ResetColor();
 }
